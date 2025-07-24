@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\SCHOOL\\CODE\\mvc22bit\\ThiGiuaKiDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B848D6A-9310-42B9-AE53-50AAB259E04E}|ThiGiuaKiDemo.csproj|d:\\school\\code\\mvc22bit\\thigiuakidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B848D6A-9310-42B9-AE53-50AAB259E04E}|ThiGiuaKiDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B848D6A-9310-42B9-AE53-50AAB259E04E}|ThiGiuaKiDemo.csproj|d:\\school\\code\\mvc22bit\\thigiuakidemo\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B848D6A-9310-42B9-AE53-50AAB259E04E}|ThiGiuaKiDemo.csproj|solutionrelative:views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B848D6A-9310-42B9-AE53-50AAB259E04E}|ThiGiuaKiDemo.csproj|d:\\school\\code\\mvc22bit\\thigiuakidemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2B848D6A-9310-42B9-AE53-50AAB259E04E}|ThiGiuaKiDemo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{2B848D6A-9310-42B9-AE53-50AAB259E04E}|ThiGiuaKiDemo.csproj|d:\\school\\code\\mvc22bit\\thigiuakidemo\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B848D6A-9310-42B9-AE53-50AAB259E04E}|ThiGiuaKiDemo.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B848D6A-9310-42B9-AE53-50AAB259E04E}|ThiGiuaKiDemo.csproj|d:\\school\\code\\mvc22bit\\thigiuakidemo\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B848D6A-9310-42B9-AE53-50AAB259E04E}|ThiGiuaKiDemo.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B848D6A-9310-42B9-AE53-50AAB259E04E}|ThiGiuaKiDemo.csproj|d:\\school\\code\\mvc22bit\\thigiuakidemo\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B848D6A-9310-42B9-AE53-50AAB259E04E}|ThiGiuaKiDemo.csproj|solutionrelative:views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B848D6A-9310-42B9-AE53-50AAB259E04E}|ThiGiuaKiDemo.csproj|d:\\school\\code\\mvc22bit\\thigiuakidemo\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B848D6A-9310-42B9-AE53-50AAB259E04E}|ThiGiuaKiDemo.csproj|solutionrelative:views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B848D6A-9310-42B9-AE53-50AAB259E04E}|ThiGiuaKiDemo.csproj|d:\\school\\code\\mvc22bit\\thigiuakidemo\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B848D6A-9310-42B9-AE53-50AAB259E04E}|ThiGiuaKiDemo.csproj|solutionrelative:views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,50 +30,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\SCHOOL\\CODE\\mvc22bit\\ThiGiuaKiDemo\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\SCHOOL\\CODE\\mvc22bit\\ThiGiuaKiDemo\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T15:25:15.423Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\SCHOOL\\CODE\\mvc22bit\\ThiGiuaKiDemo\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\SCHOOL\\CODE\\mvc22bit\\ThiGiuaKiDemo\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-24T15:24:06.078Z",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\SCHOOL\\CODE\\mvc22bit\\ThiGiuaKiDemo\\Views\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Details.cshtml",
+              "ToolTip": "D:\\SCHOOL\\CODE\\mvc22bit\\ThiGiuaKiDemo\\Views\\Books\\Details.cshtml",
+              "RelativeToolTip": "Views\\Books\\Details.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-24T15:55:38.605Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Book.cs",
-              "DocumentMoniker": "D:\\SCHOOL\\CODE\\mvc22bit\\ThiGiuaKiDemo\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "Models\\Book.cs",
-              "ToolTip": "D:\\SCHOOL\\CODE\\mvc22bit\\ThiGiuaKiDemo\\Models\\Book.cs",
-              "RelativeToolTip": "Models\\Book.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA3wB0AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T15:23:01.169Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\SCHOOL\\CODE\\mvc22bit\\ThiGiuaKiDemo\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Index.cshtml",
+              "ToolTip": "D:\\SCHOOL\\CODE\\mvc22bit\\ThiGiuaKiDemo\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwCoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-24T15:51:57.247Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\SCHOOL\\CODE\\mvc22bit\\ThiGiuaKiDemo\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Create.cshtml",
+              "ToolTip": "D:\\SCHOOL\\CODE\\mvc22bit\\ThiGiuaKiDemo\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-24T15:43:41.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\SCHOOL\\CODE\\mvc22bit\\ThiGiuaKiDemo\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "D:\\SCHOOL\\CODE\\mvc22bit\\ThiGiuaKiDemo\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T15:42:20.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\SCHOOL\\CODE\\mvc22bit\\ThiGiuaKiDemo\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Edit.cshtml",
+              "ToolTip": "D:\\SCHOOL\\CODE\\mvc22bit\\ThiGiuaKiDemo\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Books\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-24T15:40:22.36Z",
+              "EditorCaption": ""
             }
           ]
         }
